@@ -11,6 +11,6 @@ AI Issue Summary engine with Myanmar language support
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-burma-ai-core.git
+git clone https://github.com/Smartburme/smart-burma-ai-core.git
 cd smart-burma-ai-core
 pip install -r requirements.txt
